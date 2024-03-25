@@ -1,5 +1,5 @@
 {
-    "name": "Tesh-Bot",
+    "name": "Manos-Bot",
     "version": "4.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Teshnig",
+    "author": "Manos",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
