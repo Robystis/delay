@@ -1,11 +1,11 @@
-//base by Teshnig (Tesh Bot Inc.)
+//base by Manos (Manos Bot Inc.)
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Teshnig
-//Instagram: Teshnig
-//Telegram: Teshnig
-//GitHub: @Teshnig
-//WhatsApp: +254769345589
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @Manos
+//Instagram: Manos
+//Telegram: Manos
+//GitHub: @Robystis
+//WhatsApp: +254718382875
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Nick
 
 const {
    spawn
