@@ -1,42 +1,42 @@
-//base by Teshnig (Tesh Bot Inc.)
-//YouTube: @Teshnig
-//Instagram: Teshnig
-//Telegram: Teshnig
-//GitHub: @Teshnig
-//WhatsApp: +254769345589
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//base by Manos (Manos Bot Inc.)
+//YouTube: @Manos
+//Instagram: Manos
+//Telegram: Manos
+//GitHub: @Robystis
+//WhatsApp: +254718382875
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@nick
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254769345589"
-global.ownername = "🦄Teshnig"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "254718382875"
+global.ownername = "🦊Manos🦊"
+global.ytname = "YT: Manos "
+global.socialm = "GitHub: Robystis"
+global.location = "Africa, Kenya, Mombasa"
 
-global.ownernumber = '254769345589'  //creator number
-global.ownername = 'Teshnig' //owner name
-global.botname = 'Tesh ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254718382875'  //creator number
+global.ownername = '🦊MANOS🦊' //owner name
+global.botname = '🦊manos🦊 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '🦄Tesh\n\nContact: +254769345589'
+global.packname = 'bugged By'
+global.author = '🦊Manos\n\nContact: +254718382875'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Tesh Bot Inc."
+global.themeemoji = '🦊'
+global.wm = "Manos Bot Inc."
 
 //theme link
 global.link = 'none'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [',']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
