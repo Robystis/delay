@@ -1,10 +1,10 @@
-//base by Teshnig (Tesh Bot Inc.)
-//YouTube: @Teshnig
-//Instagram: Teshnig
-//Telegram: Teshnig
-//GitHub: @Teshnig
-//WhatsApp: +254769345589
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//base by Manos (Tesh Bot Inc.)
+//YouTube: @Manos
+//Instagram: Manos
+//Telegram: Manos
+//GitHub: @Robystis
+//WhatsApp: +254718382875
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Nick
 
 require('./settings')
 const pino = require('pino')
